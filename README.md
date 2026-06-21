@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 this is my new line.
 how to change the new terminal.
+this is the conflict one change,
+i want to lern conflicts on git gub,
+so this is to lern.
