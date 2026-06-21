@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 this is my new line.
 how to change the new terminal.
+git .
+new update one,with terminal only,without github desktop.
